@@ -1,6 +1,6 @@
 # AniMochi 
 
-> Anime Cards: anime you should watch right now!
+> Bubble Tea 
 
 I built this app to practice working with Class components. You can clone and update these cards by changing the syntax from class to functional components and passing props differently. 
 [Here is a resource](https://www.twilio.com/blog/react-choose-functional-components)
