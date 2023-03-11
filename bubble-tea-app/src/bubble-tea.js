@@ -1,6 +1,7 @@
 export const teas = [
     {
         id: 1,
+        img: "https://www.honestfoodtalks.com/wp-content/uploads/2022/07/ube-milk-tea-500x500.jpg",
         flavor: "taro",
         tea: "oolong tea",
         milk: "soy",
@@ -9,6 +10,7 @@ export const teas = [
 
     {
         id: 2,
+        img: "https://www.inkatrinaskitchen.com/wp-content/uploads/2020/05/Strawberry-Bubble-Tea-24-wm-600-500x500.jpg",
         flavor: "strawberry",
         tea: "white tea",
         milk: "almond",
@@ -17,6 +19,7 @@ export const teas = [
 
     {
         id: 3,
+        img: "https://images.unsplash.com/photo-1558857563-b371033873b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
         flavor: "chocolate cupcake",
         tea: "black tea",
         milk: "fresh milk",
