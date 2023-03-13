@@ -6,7 +6,7 @@ I built this app to practice working with Class components. You can clone and up
 [Here is a resource](https://www.twilio.com/blog/react-choose-functional-components)
 
 #### Styling
-Each component can have it's own corresponding CSS file, example: App.js -> App.css index.js -> index.css etc. We just need to import the files into the component files.
+Each component can have it's own corresponding CSS file, example: App.js -> App.css index.js -> index.css etc. We just need to import the files into the component files. 
 
 
 ## Getting Started with Create React App

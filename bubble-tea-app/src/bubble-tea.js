@@ -31,7 +31,7 @@ export const teas = [
         flavor: "brown sugar",
         tea: "black tea",
         milk: "sweetened condensed milk",
-        pearls: "tapioca pearls"
+        topping: "tapioca pearls"
     },
     {
         id: 5,
@@ -39,7 +39,7 @@ export const teas = [
         flavor: "watermelon",
         tea: "green tea",
         milk: "non-dairy creamer",
-        pearls: "popping boba"
+        topping: "popping boba"
     },
     {
         id: 6,
@@ -47,7 +47,7 @@ export const teas = [
         flavor: "Sesame",
         tea: "oolong tea",
         milk: "soy",
-        pearls: "red bean"
+        topping: "red bean"
     },
     {
         id: 7,
@@ -55,7 +55,7 @@ export const teas = [
         flavor: "black berry",
         tea: "black tea",
         milk: "almond",
-        pearls: "crushed berries"
+        topping: "crushed berries"
     },
     {
         id: 8,
@@ -63,7 +63,7 @@ export const teas = [
         flavor: "coffee",
         tea: "espresso mix",
         milk: "fresh milk",
-        pearls: "jelly"
+        topping: "jelly"
     },
     {
         id: 9,
@@ -71,7 +71,7 @@ export const teas = [
         flavor: "passion fruit",
         tea: "white tea",
         milk: "non-dairy creamer",
-        pearls: "popping boba"
+        topping: "popping boba"
     },
     {
         id: 10,
@@ -79,6 +79,6 @@ export const teas = [
         flavor: "mango lychee",
         tea: "green tea",
         milk: "soy milk",
-        pearls: "tapioca pearls"
+        topping: "tapioca pearls"
     },
 ]
