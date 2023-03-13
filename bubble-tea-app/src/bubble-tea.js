@@ -27,6 +27,7 @@ export const teas = [
     },
     {
         id: 4,
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs4SrwvrhTit2sRW7B6FYv02zWdVZSRGK93g&usqp=CAU",
         flavor: "brown sugar",
         tea: "black tea",
         milk: "sweetened condensed milk",
@@ -34,6 +35,7 @@ export const teas = [
     },
     {
         id: 5,
+        img: "https://i.pinimg.com/736x/0d/22/86/0d22869d5c31d3fd52d22dc1134a868e.jpg",
         flavor: "watermelon",
         tea: "green tea",
         milk: "non-dairy creamer",
@@ -41,6 +43,7 @@ export const teas = [
     },
     {
         id: 6,
+        img: "https://www.ohhowcivilized.com/wp-content/uploads/black-sesame-bubble-tea-recipe.jpg",
         flavor: "Sesame",
         tea: "oolong tea",
         milk: "soy",
@@ -48,6 +51,7 @@ export const teas = [
     },
     {
         id: 7,
+        img: "https://brokebankvegan.com/wp-content/uploads/2022/06/Taro-Milk-Tea-42-500x500.jpg",
         flavor: "black berry",
         tea: "black tea",
         milk: "almond",
@@ -55,6 +59,7 @@ export const teas = [
     },
     {
         id: 8,
+        img: "https://www.anediblemosaic.com/wp-content/uploads//2022/03/boba-milk-tea-featured-image.jpg",
         flavor: "coffee",
         tea: "espresso mix",
         milk: "fresh milk",
@@ -62,6 +67,7 @@ export const teas = [
     },
     {
         id: 9,
+        img: "https://i.pinimg.com/736x/48/b6/df/48b6dfa71b78bf63c1c0537269acfe3d.jpg",
         flavor: "passion fruit",
         tea: "white tea",
         milk: "non-dairy creamer",
@@ -69,6 +75,7 @@ export const teas = [
     },
     {
         id: 10,
+        img: "https://m.disposabledrinkingcup.com/photo/pl29837361-500ml_size_square_bubble_tea_bottle_pet_material_with_customized_logo.jpg",
         flavor: "mango lychee",
         tea: "green tea",
         milk: "soy milk",
