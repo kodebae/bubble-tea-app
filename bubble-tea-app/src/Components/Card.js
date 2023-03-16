@@ -7,9 +7,9 @@ const Card = (props) => {
                 <div className="card-cont">
                    <img className="w-30" src={props.img} />
                    <h2>{props.flavor}</h2> 
-                   <p>{props.tea}</p>
-                   <p>{props.milk}</p>
-                   <p>{props.topping}</p>
+                   <h4>{props.tea}</h4>
+                   <h4>{props.milk}</h4>
+                   <h4>{props.topping}</h4>
                 </div>
 
         </div>
